@@ -1,0 +1,1 @@
+{{ base_path('resources\views\phpTest.php') }}
